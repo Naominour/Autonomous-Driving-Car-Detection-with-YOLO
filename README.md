@@ -1,17 +1,15 @@
 # Autonomous Driving Car Detection with YOLO 🚙
 
 This project focuses on implementing an **object detection** system for autonomous driving using the powerful **YOLO (You Only Look Once)** model. The main goal is to build a car detection system that identifies cars in images captured by a camera mounted on the hood of a self-driving car.
+<center> <img src="nb_images\dataset-card.png" style="width:400px;"></center>
 <center>
-<img src="nb_images\dataset-card.png" style="width:400px;">
-
-
 ![Object Detection](https://img.shields.io/badge/Skill-Object%20Detection-yellow)
 ![YOLO model](https://img.shields.io/badge/Skill-YOLO%20Model-blueviolet)
 ![Image Preprocessing](https://img.shields.io/badge/Skill-Image%20Preprocessing-green)
 ![TensorFlow](https://img.shields.io/badge/Skill-TensorFlow-orange)
-![Keras](https://img.shields.io/badge/Skill-Keras-orange)
+![Keras](https://img.shields.io/badge/Skill-Keras-yellow)
 ![Computer Vision](https://img.shields.io/badge/Skill-Computer%20Vision-brightblue)
-![Bounding Box Visualization](https://img.shields.io/badge/Skill-Keras-brightgreen)
+![Bounding Box Visualization](https://img.shields.io/badge/Skill-Bounding%20Box%20Visualization-brightblue)
 ![Python Programming](https://img.shields.io/badge/Skill-Python%20Programming-orange)
 
 </center>
