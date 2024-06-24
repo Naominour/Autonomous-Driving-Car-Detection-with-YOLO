@@ -41,7 +41,7 @@ This project focuses on implementing an **object detection** system for autonomo
 - Visualization of detection results with `bounding boxes`.
 
 ## Usage
-- Download the pre trained model data from [here](https://drive.google.com/file/d/1ozWxLf-JY6Qe6Ik6-KLVCOdayGipYj-T/view?usp=drive_link)..
+- Download the pre trained model data from [here](https://drive.google.com/file/d/1ozWxLf-JY6Qe6Ik6-KLVCOdayGipYj-T/view?usp=drive_link) and put it in the root directory.
 - Ensure all dependencies are installed (TensorFlow, Keras, PIL, etc.).
 - Load the pre-trained YOLO model.
 - Preprocess input images.
